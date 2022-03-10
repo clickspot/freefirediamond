@@ -1,0 +1,37 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 08 Mar 2022 22:35:25 at https://fwfire.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://fwfire.com/ -O1 "C:\My Web Sites\FFDG" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:36:23	Error: 	"Not Found" (404) at link https://fwfire.com/style_content_locker.css (from https://fwfire.com/)
+22:36:23	Error: 	"Not Found" (404) at link https://fwfire.com/jquery_content_locker.js (from https://fwfire.com/)
+22:36:23	Warning: 	Retry after error -4 (No data (connection closed)) at link https://fwfire.com/css-1.css?family=Open+Sans:300,400,700 (from https://fwfire.com/)
+22:36:51	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://fwfire.com/js/main.js (from https://fwfire.com/)
+22:36:51	Warning: 	Retry after error -4 (No data (connection closed)) at link https://fwfire.com/gtag/js.js?id=UA-101959665-1 (from https://fwfire.com/)
+22:36:51	Error: 	"Not Found" (404) at link https://fwfire.com/font-awesome/4.5.0/fonts/fontawesome-webfont.eot?v=4.5.0 (from https://fwfire.com/font-awesome/4.5.0/css/font-awesome.min.css)
+22:36:51	Error: 	"Not Found" (404) at link https://fwfire.com/font-awesome/4.5.0/fonts/fontawesome-webfont.eot? (from https://fwfire.com/font-awesome/4.5.0/css/font-awesome.min.css)
+22:36:51	Error: 	"Not Found" (404) at link https://fwfire.com/font-awesome/4.5.0/fonts/fontawesome-webfont.woff2?v=4.5.0 (from https://fwfire.com/font-awesome/4.5.0/css/font-awesome.min.css)
+22:36:51	Error: 	"Not Found" (404) at link https://fwfire.com/font-awesome/4.5.0/fonts/fontawesome-webfont.woff?v=4.5.0 (from https://fwfire.com/font-awesome/4.5.0/css/font-awesome.min.css)
+22:36:51	Error: 	"Not Found" (404) at link https://fwfire.com/font-awesome/4.5.0/fonts/fontawesome-webfont.ttf?v=4.5.0 (from https://fwfire.com/font-awesome/4.5.0/css/font-awesome.min.css)
+22:36:51	Error: 	"Not Found" (404) at link https://fwfire.com/font-awesome/4.5.0/fonts/fontawesome-webfont.svg?v=4.5.0 (from https://fwfire.com/font-awesome/4.5.0/css/font-awesome.min.css)
+22:36:51	Error: 	"Not Found" (404) at link https://fwfire.com/fonts/glyphicons-halflings-regular.eot (from https://fwfire.com/css/bootstrap.min.css)
+22:36:51	Error: 	"Not Found" (404) at link https://fwfire.com/fonts/glyphicons-halflings-regulard41d.eot? (from https://fwfire.com/css/bootstrap.min.css)
+22:36:51	Error: 	"Not Found" (404) at link https://fwfire.com/fonts/glyphicons-halflings-regular.html (from https://fwfire.com/css/bootstrap.min.css)
+22:36:51	Error: 	"Not Found" (404) at link https://fwfire.com/fonts/glyphicons-halflings-regular.woff (from https://fwfire.com/css/bootstrap.min.css)
+22:36:51	Error: 	"Not Found" (404) at link https://fwfire.com/fonts/glyphicons-halflings-regular.ttf (from https://fwfire.com/css/bootstrap.min.css)
+22:36:51	Error: 	"Not Found" (404) at link https://fwfire.com/fonts/glyphicons-halflings-regular.svg (from https://fwfire.com/css/bootstrap.min.css)
+22:37:03	Warning: 	Retry after error -4 (No data (connection closed)) at link https://fwfire.com/img/btn-mini-left.png (from https://fwfire.com/css/style.css)
+22:37:03	Error: 	"Not Found" (404) at link https://fwfire.com/img/btn-mini-right.png (from https://fwfire.com/css/style.css)
+22:37:03	Error: 	"Not Found" (404) at link https://fwfire.com/img/btn-mini-center.png (from https://fwfire.com/css/style.css)
+22:37:03	Error: 	"Not Found" (404) at link https://fwfire.com/img/btn-mini-disable-left.png (from https://fwfire.com/css/style.css)
+22:37:03	Error: 	"Not Found" (404) at link https://fwfire.com/img/btn-mini-disable-right.png (from https://fwfire.com/css/style.css)
+22:37:03	Error: 	"Not Found" (404) at link https://fwfire.com/img/btn-mini-disable-center.png (from https://fwfire.com/css/style.css)
+22:37:03	Error: 	"Not Found" (404) at link https://fwfire.com/img/searching.html (from https://fwfire.com/css/style.css)
+22:37:08	Warning: 	Retry after error -4 (No data (connection closed)) at link https://fwfire.com/img/btn-mini-left.png (from https://fwfire.com/css/style.css)
+22:37:08	Error: 	"Not Found" (404) at link https://fwfire.com/img/btn-mini-left.png (from https://fwfire.com/css/style.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 43 seconds : 60 links scanned, 33 files written (1305397 bytes overall) [673012 bytes received at 6534 bytes/sec], 1066635 bytes transferred using HTTP compression in 24 files, ratio 37%, 5.9 requests per connection
+(21 errors, 5 warnings, 0 messages)
